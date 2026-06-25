@@ -66,22 +66,7 @@ Historical trend analysis
 Premium growth projections
 📈 Power BI Dashboard Features
 
-The dashboard compares five major insurance companies:
 
-Allstate Insurance Company
-GEICO General Insurance Company
-Liberty Mutual Fire Insurance Company
-Progressive Casualty Insurance Company
-State Farm Mutual Automobile Insurance Company
-Dashboard Components
-KPI Cards
-Total Complaints
-Complaint Ratio
-Premiums Written
-Company Rankings
-Upheld Complaints Analysis
-Complaint Type Distribution
-Interactive Filters and Comparisons
 💡 Key Findings
 Complaint Trends
 Total complaint volumes declined significantly between 2009 and 2016.
